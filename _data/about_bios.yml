@@ -19,6 +19,9 @@ leadership:
      - label: Email
        link: mailto:sarac@girldevelopit.com
        inconclass: fa fa-envelope
+     - label: Website
+       link: http://sara.io/
+       
  - name: Katy Bowman
    title: Chapter Co-Lead
    bio: >
